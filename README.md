@@ -48,7 +48,7 @@ Dữ liệu được lấy tự động từ [Yahoo Finance](https://finance.yah
 
 ## 📷 kết quả
 Mô hình trực quan hóa giá dự đoán và giá thực tế bằng biểu đồ:
-
+![Image](https://github.com/hoangit03/Stock_Price_Predictions/blob/main/image/predict_FPT.png)
 
 ## 📌 Ghi chú
 - Dự án mang tính học thuật, không sử dụng cho mục đích đầu tư thực tế.
